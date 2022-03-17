@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_category">Category</string>
+    <string name="title_me">Me</string>
+
+
+    <string name="shop_online">Shop Online</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+
+    <string name="shopOnlie"> BRANDS </string>
+
+
+    <string name="shopping_bag">Shopping bag</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="orders">Orders</string>
+    <string name="login_register">loginAndregister</string>
+    <string name="paid_orders">Paid Orders</string>
+    <string name="unpaid" />
+    <string name="unpaid_orders">Unpaid Orders</string>
+    <string name="wish_list">WishList</string>
+    <string name="Delete_Item_From_Wish_List">Delete Item From WishList</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="AllWishList">All WishList</string>
+    <string name="see_more">see more</string>
+    <string name="_1">1</string>
+    <string name="please_log_in">log in to look your wishList</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">Address</string>
+    <string name="currency">Currency</string>
+    <string name="about_us">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="about_us_tv">This App is our graduation project in ITI Masoura ,\n\n
+        enjoy with it. :) \n\n
+
+
+    </string>
+    <string name="team">Team</string>
+    <string name="team_tv"> Team of the product :\n\n
+                                  Enas Alosta\n
+                                  Ebrahim Alfadaly\n
+                                  Rania \n
+                                  Norhan \n
+    </string>
+    <string name="enas">enasalosta9@gmail.com</string>
+    <string name="ebrahim">elfadalyebrahim@gmail.com</string>
+    <string name="rania">ran.glalah@gmail.com</string>
+    <string name="nourhan">noursayed535@gmail.com</string>
+    <string name="full_name">*Full Name</string>
+    <string name="phone_number">*Phone Number</string>
+    <string name="city">*City</string>
+    <string name="country">*Country</string>
+    <string name="set_as_default">Set as default</string>
+    <string name="add_new_address">Add New Address</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="App_name">Online Shop</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or_join_with">or join with</string>
+    <string name="_8_characters_minimum">8 characters minimum</string>
+    <string name="at_least_one_letter">at least one letter</string>
+    <string name="at_least_one_number">at least one number</string>
+    <string name="thereIsNoNetwork">There is no network</string>
+
+
+    <string name="todo">todo</string>
+    <string name="it_is_empty_here">empyt</string>
+
+
+    <string name="itemtitle">itemtitle</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="click_to_add_address">Click to add address</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="apply_voucher">Apply Discount</string>
+    <string name="item_total">Sub Total:</string>
+    <string name="discount">Discount:</string>
+
+    <string name="change_address"><u>Change address</u></string>
+    <string name="payment_method">Payment Method</string>
+
+    <string name="enter_discount_code">Enter Discount Code</string>
+    <string name="place_order">Place Order</string>
+
+
+    <string name="waiting_for_payment">waitForPayment</string>
+    <string name="payment_type">PaymentType</string>
+    <string name="total">total</string>
+    <string name="_170">170</string>
+    <string name="egp">egp</string>
+    <string name="cancel">Cancel</string>
+    <string name="pay_now">paynow</string>
+    <string name="see_details">seedetails</string>
+    <string name="see_all">seeall</string>
+    <string name="image">image</string>
+    <string name="_5_black">5black</string>
+    <string name="title">title</string>
+    <string name="color">color</string>
+    <string name="your_bag_is_empty">emptybag</string>
+    <string name="log_in_to_see_shopping_cart">log in to see cart</string>
+    <string name="checkout">checkout</string>
+    <string name="add_to_bag">add to bag</string>
+    <string name="add_to_wish_list">add to wish list</string>
+    <string name="description">descrption</string>
+    <string name="vendor">vendor</string>
+    <string name="status">status</string>
+    <string name="size">size</string>
+    <string name="set_as_default_address">Set As Default Address</string>
+    <string name="_1_5">–1-5</string>
+    <string name="image_slider">image slider</string>
+
+
+    //ebrahim
+    <string name="no_results_found">No results found</string>
+    <string-array name="sortArr">
+        <item>SORT</item>
+        <item>price: Low to High</item>
+        <item>price: High to Low</item>
+        <item>Alphabetically</item>
+        <item>none</item>
+    </string-array>
+
+    <string-array name="filterArr">
+        <item>FILTER</item>
+        <item>shoes</item>
+        <item>t-shirts</item>
+        <item>accessories</item>
+        <item>none</item>
+    </string-array>
+
+
+    <string name="please_connect_to_a_network">Please connect to a network</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="signin">signin</string>
+    <string name="sign_in_and_try_again">sign_in_and_try_again</string>
+    <string name="you_are_not_signed">you_are_not_signed</string>
+    <string name="logInToCanAddToCart">logInToCanAddToCart</string>
+    <string name="item_saved_in_cart">item_saved_in_cart</string>
+    <string name="logInToCanAddToWishList">logInToCanAddToWishList</string>
+    <string name="my_orders">my_orders</string>
+    <string name="cancel_order">cancel_order</string>
+    <string name="alert_msg">Are you sure to delete this item?</string>
+    <!-- Checkout activity -->
+    <string name="checkout_item_description">Description</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is not available on this phone.</string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for %s!</string>
+    <string name="for_your_orders">for your orders</string>
+    <string name="clic_to_get_discount">Click to Get Discount</string>
+
+    <string name="state_province_optional">State/Province</string>
+    <string name="post_zip_code">Post/Zip Code</string>
+    <string name="address_line_2">Address 2</string>
+    <string name="empty">empty</string>
+
+
+</resources>
